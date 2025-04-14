@@ -13,7 +13,7 @@ The **Facial Recognition System** is an AI-powered application USING FLASK desig
 ## 🚀 Installation
  **Clone the repository:**
    ```sh
-   git clone https://github.com/Sorabh-Kapoor/Face-Recognition-Attendance-System
+   git clone https://github.com/Vrushabh Shah/Face-Recognition-Attendance-System
    ```
 
 
